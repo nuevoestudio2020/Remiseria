@@ -1,0 +1,65 @@
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\Remiseria.exe
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\Remiseria.pdb
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.csprojAssemblyReference.cache
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.Properties.Resources.resources
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.csproj.GenerateResource.cache
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.csproj.CoreCompileInputs.cache
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.exe
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.pdb
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\Remiseria.exe.config
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\EntityFramework.dll
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\EntityFramework.xml
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.Login.resources
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.Programa.resources
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.csproj.CopyComplete
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.Bienvenida.resources
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\CircularProgressBar.dll
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\bin\Debug\WinFormAnimation.dll
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.Inicio.resources
+C:\Users\Sofia\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.Clientes.resources
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.csprojAssemblyReference.cache
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.Bienvenida.resources
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.Inicio.resources
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.Login.resources
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.Programa.resources
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.Properties.Resources.resources
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.csproj.GenerateResource.cache
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.csproj.CoreCompileInputs.cache
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.exe
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.pdb
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\Remiseria.exe.config
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\Remiseria.exe
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\Remiseria.pdb
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\CircularProgressBar.dll
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\EntityFramework.dll
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\System.Data.SQLite.dll
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\WinFormAnimation.dll
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\EntityFramework.xml
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\System.Data.SQLite.xml
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.csproj.CopyComplete
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.Clientes.resources
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.Choferes.resources
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.Viajes.resources
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.Reservas.resources
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\Remiseria.exe.manifest
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\Remiseria.application
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.exe.manifest
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\obj\Debug\Remiseria.application
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\SQLite.Interop.dll
+C:\Users\Casto 26\source\repos\Remiseria\Remiseria\bin\Debug\database.db
